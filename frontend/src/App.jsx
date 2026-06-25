@@ -82,7 +82,7 @@ async function verify(){
     const token = localStorage.getItem('token')
     if(!token){
 
-        throw redirect('/api/auth/login')
+        throw redirect('/auth/login')
 
     }
 
