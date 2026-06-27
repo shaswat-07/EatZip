@@ -1,4 +1,4 @@
-# Food Delivery App
+# EatZip A Food Delivery App
 
 A full-stack food ordering application built with **React, Express.js, MongoDB, and Tailwind CSS**.
 
